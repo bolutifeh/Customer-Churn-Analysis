@@ -39,8 +39,8 @@ The dataset includes customer demographics, account information, subscription de
 Key preparation steps included:
 
 - Checking for missing values and duplicate records.
-- Converting `TotalCharges` into a numeric field.
-- Handling 11 blank `TotalCharges` values associated with customers with zero tenure.
+- Converting TotalCharges into a numeric field.
+- Handling 11 blank TotalCharges values associated with customers with zero tenure.
 - Creating customer tenure and monthly charge categories.
 - Defining a high-risk customer segment for further analysis.
 
