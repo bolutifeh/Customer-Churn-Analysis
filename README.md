@@ -101,16 +101,17 @@ An interactive three-page Power BI dashboard was developed to communicate the fi
 ### Page 1 — Customer Retention Overview
 
 Provides an executive summary of overall churn, retention and churn patterns across contract types and internet services.
+![Customer Retention Overview](outputs/dashboard_page_1.png)
 
 ### Page 2 — Customer Churn Drivers
 
 Explores the relationships between churn and customer tenure, monthly charges, payment methods and technical support.
+![Dashboard Page 2](outputs/dashboard_page_2.png)
 
 ### Page 3 — Customer Segmentation & Retention Opportunities
 
 Highlights high-risk customer segments, their contribution to overall churn and potential retention actions.
-
-Dashboard screenshots will be added here.
+![Dashboard Page 3](outputs/dashboard_page_3.png)
 
 ## Recommendations
 
