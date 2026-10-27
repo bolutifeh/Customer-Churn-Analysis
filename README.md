@@ -20,6 +20,16 @@ The analysis aimed to answer the following questions:
 
 ## Tools and Technologies
 
+## Project Files
+
+| File | Description |
+|---|---|
+| [Python Analysis](notebooks/Customer_Churn_Analysis.ipynb) | Data cleaning, exploratory analysis and business insights |
+| [SQL Analysis](sql/churn_analysis.sql) | SQL queries exploring churn patterns and high-risk customer segments |
+| [Power BI Dashboard](Power%20BI/) | Interactive three-page Power BI report |
+| [Dashboard Screenshots](outputs/) | Images of the three dashboard pages |
+| [Datasets](data/) | Original and cleaned customer churn data |
+
 | Tool | Purpose |
 |---|---|
 | Python | Data cleaning and exploratory data analysis |
